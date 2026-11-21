@@ -1,0 +1,13 @@
+size,case,linear_cmps,binary_cmps
+1000,first,1,9
+1000,middle,501,9
+1000,last,1000,10
+1000,missing,1000,10
+10000,first,1,13
+10000,middle,5001,13
+10000,last,10000,14
+10000,missing,10000,14
+100000,first,1,16
+100000,middle,50001,16
+100000,last,100000,17
+100000,missing,100000,17
